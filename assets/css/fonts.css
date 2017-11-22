@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(../fonts/font-static/OpenSans1.woff2) format('woff2'), url(../fonts/font-static/OpenSans2.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(../fonts/font-static/OpenSans-Semibold1.woff2) format('woff2'), url(../fonts/font-static/OpenSans-Semibold2.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(../fonts/font-static/OpenSans-Bold1.woff2) format('woff2'), url(../fonts/font-static/OpenSans-Bold2.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Light'), local('Roboto-Light'), url(../fonts/font-static/RobotoLight1.woff2) format('woff2'), url(../fonts/font-static/RobotoLight2.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(../fonts/font-static/RobotoRegular1.woff2) format('woff2'), url(../fonts/font-static/RobotoRegular2.woff2) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Roboto Medium'), local('Roboto-Medium'), url(../fonts/font-static/RobotoMedium1.woff2) format('woff2'), url(../fonts/font-static/RobotoMedium2.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'), local('Roboto-Bold'), url(../fonts/font-static/RobotoBold1.woff2) format('woff2'), url(../fonts/font-static/RobotoBold2.woff) format('woff');
+}
